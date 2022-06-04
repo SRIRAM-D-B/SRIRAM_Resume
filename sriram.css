@@ -188,9 +188,9 @@ img.proj{
 .pskill{
     font-size: 30px;
     margin-left: 100px;
-    margin-top: -40px;
+    margin-top: -60px;
 }
-#C{
+.C{
     height: 40px;
     width: 40px;
     margin-top: -20px;
@@ -198,23 +198,23 @@ img.proj{
     background-color: chartreuse;
     padding: 5px 5px 5px 5px;
 }
-#java{
+.java{
     height: 40px;
     width: 40px;
-    margin-top: -80px;
+    margin-top: -150px;
     margin-left: 245px;
     background-color: chartreuse;
     padding: 5px 5px 5px 5px;
 }
-#html5{
+.html5{
     height: 40px;
     width: 40px;
-    margin-top: -30px;
+    margin-top: 0px;
     margin-left: 110px;
     background-color: chartreuse;
     padding: 5px 5px 5px 5px;
 }
-#css3{
+.css3{
     height: 40px;
     width: 40px;
     margin-top: -75px;
@@ -222,15 +222,16 @@ img.proj{
     background-color: chartreuse;
     padding: 5px 5px 5px 5px;
 }
-#pC{
+.pC{
+    width: 20px;
     font-size: 20px;
     margin-left: 170px;
     margin-top: -40px;
 }
-#pjava{
+.pjava{
     font-size: 20px;
     margin-left: 300px;
-    margin-top: -60px;
+    margin-top: -80px;
 }
 #phtml{
     font-size: 20px;
@@ -258,7 +259,7 @@ img.proj{
 .phobby{
     font-size: 30px;
     margin-left: 450px;
-    margin-top: -160px;
+    margin-top: -175px;
 }
 #HO1{
     height: 40px;
