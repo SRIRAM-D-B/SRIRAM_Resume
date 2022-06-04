@@ -1,0 +1,314 @@
+.first{
+    
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 90px;
+    width: 1500px;
+    font-size: 32px;
+    color: rgb(27, 240, 169);
+    background-color: darkorchid;
+}
+h1{
+    margin-top: 0px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.second{
+    background-color: rgb(240, 188, 55);
+    border-radius: 20px;
+    margin-top: 5px;
+    height: 1000px;
+    border: 5px solid black;
+    width: 350px;
+}
+.third{
+    background-color: rgb(240, 188, 55);
+    border-radius: 20px;
+    margin-top: -1010px;
+    margin-left: 365px;
+    height: 1000px;
+    border: 5px solid black;
+    width: 1135px;
+}
+#name{
+    font-size: 34px;
+    margin-left: 70px;
+}
+.second p{
+    border: 5px;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+#ruler1{
+    color: rgb(0, 0, 0);
+    width: 300px;
+    margin-top: -10px;
+}
+.pcontact{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: -60px;
+}
+.contact{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+p.num{
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 90px;
+}
+img.mail{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+p.mail{
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 90px;
+}
+img.cinfo{
+    height: 40px;
+    width: 40px;
+    margin-left: -90px;
+}
+img.address{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+p.address{
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lang{
+    height: 40px;
+    width: 40px;
+    margin-top: -10px;
+    margin-left: -90px;
+}
+.planguage{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: -60px;
+
+}
+li{
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ruler2{
+    width: 300px;
+    margin-top: 10px;
+}
+#ruler3{
+    width: 300px;
+    margin-top: 10px;
+}
+img.edu{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+h2.pedu{
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: -40px;
+}
+.sslc{
+    color: crimson;
+    font-size: 25px;
+}
+.lmc{
+    font-size: 20px;
+    color: black;
+}
+.hrsec{
+    color: crimson;
+    font-size: 25px;
+}
+.lmc2{
+    font-size: 20px;
+    color: black;
+}
+.clg{
+    color: crimson;
+    font-size: 25px;
+}
+.eshwar{
+    font-size: 20px;
+    color: black;
+}
+img.proj{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.pproj{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: -40px;
+}
+.bt{
+    color: crimson;
+    font-size: 25px;
+}
+.ruler4{
+    width: 1050px;
+    margin-top:10px;
+}
+.ruler5{
+    width: 1050px;
+    margin-top: 10px;
+}
+.skill{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.pskill{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -40px;
+}
+#C{
+    height: 40px;
+    width: 40px;
+    margin-top: -20px;
+    margin-left: 110px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+#java{
+    height: 40px;
+    width: 40px;
+    margin-top: -80px;
+    margin-left: 245px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+#html5{
+    height: 40px;
+    width: 40px;
+    margin-top: -30px;
+    margin-left: 110px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+#css3{
+    height: 40px;
+    width: 40px;
+    margin-top: -75px;
+    margin-left: 245px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+#pC{
+    font-size: 20px;
+    margin-left: 170px;
+    margin-top: -40px;
+}
+#pjava{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: -60px;
+}
+#phtml{
+    font-size: 20px;
+    margin-left: 170px;
+    margin-top: -35px;
+}
+#pcss{
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: -60px;
+}
+.vertical{
+    height: 160px;
+    width: 2px;
+    background-color: black;
+    margin-top: -210px;
+    margin-left: 370px;
+}
+.hobby{
+    height: 40px;
+    width: 40px;
+    margin-top: -160px;
+    margin-left: 400px;
+}
+.phobby{
+    font-size: 30px;
+    margin-left: 450px;
+    margin-top: -160px;
+}
+#HO1{
+    height: 40px;
+    width: 40px;
+    margin-top: -10px;
+    margin-left: 450px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+.ho1{
+    font-size: 20px;
+    margin-left: 510px;
+    margin-top: -35px;
+}
+#HO2{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 450px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+.ho2{
+    font-size: 20px;
+    margin-left: 510px;
+    margin-top: -35px;
+}
+#HO3{
+    height: 40px;
+    width: 40px;
+    margin-top: -125px;
+    margin-left: 680px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+.ho3{
+    font-size: 20px;
+    margin-left: 740px;
+    margin-top: -110px;
+}
+#HO4{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 680px;
+    background-color: chartreuse;
+    padding: 5px 5px 5px 5px;
+}
+.ho4{
+    font-size: 20px;
+    margin-left: 740px;
+    margin-top: -35px;
+}
