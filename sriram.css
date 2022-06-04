@@ -188,7 +188,7 @@ img.proj{
 .pskill{
     font-size: 30px;
     margin-left: 100px;
-    margin-top: -60px;
+    margin-top: -40px;
 }
 .C{
     height: 40px;
@@ -201,7 +201,7 @@ img.proj{
 .java{
     height: 40px;
     width: 40px;
-    margin-top: -150px;
+    margin-top: -70px;
     margin-left: 245px;
     background-color: chartreuse;
     padding: 5px 5px 5px 5px;
@@ -231,7 +231,7 @@ img.proj{
 .pjava{
     font-size: 20px;
     margin-left: 300px;
-    margin-top: -80px;
+    margin-top: -60px;
 }
 #phtml{
     font-size: 20px;
@@ -259,7 +259,7 @@ img.proj{
 .phobby{
     font-size: 30px;
     margin-left: 450px;
-    margin-top: -175px;
+    margin-top: -155px;
 }
 #HO1{
     height: 40px;
